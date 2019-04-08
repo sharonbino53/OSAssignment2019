@@ -21,7 +21,7 @@ int main()
     
         do
         {
-            printf("n\t\t\t Enter an integer greater than 0 : \t\t\t\n");
+            printf("n\t\t\t Enter an integer greater than 0 : ");
             scanf("%d", &d);
         }
     while ( d <= 0 );
