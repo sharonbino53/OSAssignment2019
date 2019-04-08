@@ -28,6 +28,19 @@ int main()
             {
                 d = d/2;
             }
-        }   
+            else if (d%2 ==1)
+            {
+                d = 3 * (d) + 1;
+            }
+            printf("%d\n".d);
+        }
+        printf("Child process is done. \n");
     }
-}   
+    else
+    {
+        printf(" The Parent is working on child Process. \n");
+        wait();
+        printf("Parent process is done. \n");
+    }  
+    return 0;
+ }
