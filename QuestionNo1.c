@@ -42,7 +42,7 @@ int main()
             {
                 d = 3 * (d) + 1;
             }
-            printf("%d\n".d);
+            printf("%d\n",d);
         }
         printf("Child process is done. \n");
     }
