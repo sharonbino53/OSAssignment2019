@@ -4,6 +4,16 @@
 
 int main()
 {
+    printf("\n\t\t\t***************************************************************\t\t\t\n");
+	printf("\n\t\t\t***************************************************************\t\t\t\n");
+    printf("\n\t\t\t Operating System Assignment by :            \t\t\t\n");
+    printf("\n\t\t\t                                 Sharon Bino \t\t\t\n");
+    printf("\n\t\t\t                                 11704249    \t\t\t\n");
+    printf("\n\t\t\t                                 27          \t\t\t\n");
+    printf("\n\t\t\t                                 K17CF       \t\t\t\n");
+	printf("\n\t\t\t***************************************************************\t\t\t\n");
+	printf("\n\t\t\t***************************************************************\t\t\t\n");
+    
     int n = 0;
     int d = 0;
     
